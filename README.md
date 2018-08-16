@@ -4,7 +4,7 @@ A Golang package that provides functions for handling python files.
 
 ## Installation
 
-Run `go get github.com/rburmorrison/go-pytools`.
+Run `go get -u github.com/rburmorrison/go-pytools`.
 
 ## Documentation
 
